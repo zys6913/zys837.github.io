@@ -1,6 +1,12 @@
 ## achoooooooooo！-一个浏览器主页
 
-～此站搭建中～
+[github](github.com)
+[google](google.com)
+[YaHoo!](yahoo.com)
+[bing](bing.com)
+[microsoft](microsoft.com)
+[duckduckgo](duckduckgo.com)
+[torproject](torproject.lu)
 
 ## 小提示
 
